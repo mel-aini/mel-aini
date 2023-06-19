@@ -3,6 +3,6 @@
   <h1>Skills : </h1>
   <img height="60" src="https://github.com/mel-aini/mel-aini/assets/116949877/b665cffb-c733-417c-a4a5-e012d965c73c"></img>
   <img height="60" src="https://github.com/mel-aini/mel-aini/assets/116949877/3a6c5c69-1239-48a8-b149-b139199782e7"></img>
-  <img height="60" src="https://github.com/mel-aini/mel-aini/assets/116949877/bdf37ed5-0fbd-48d6-801b-f7aa7e7d61a7"></img>
+  <img height="60" src="https://github.com/mel-aini/mel-aini/assets/116949877/c8dbff51-f50c-43a3-b4a8-f77935a0cc82"></img>
   <img height="60" src="https://github.com/mel-aini/mel-aini/assets/116949877/0f154596-97c8-4714-bd34-5981d39de8d6"></img>
 </div>
