@@ -3,7 +3,7 @@
   <h2>I'm Mohssine El Aini,</h2>
   <p></p>Software Engineering Student at 1337 | Aspiring Full Stack and Mobile Engineer.</p>
 
-  <p>I am a dedicated software engineering student currently pursuing my studies at 1337, a coding school within 42       network. Passionate about web development, I am actively expanding my skills in parallel with my curriculum. My goal is to become a   versatile full stack and mobile engineer, equipped with a strong foundation in software engineering principles. Eager to contribute to innovative projects and collaborate with like-minded professionals in the tech industry.</p>
+  <p>I am a dedicated software engineering student currently pursuing my studies at 1337, a coding school within 42       network. Passionate about web development, I am actively expanding my skills in parallel with my curriculum. My goal is to become a   versatile full stack and DevOps engineer, equipped with a strong foundation in software engineering principles. Eager to contribute to innovative projects and collaborate with like-minded professionals in the tech industry.</p>
   <a href="https://linkedin.com/in/elainimohssine">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
